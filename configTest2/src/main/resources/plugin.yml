@@ -1,0 +1,9 @@
+name: configTest2
+version: '1.0-SNAPSHOT'
+main: org.blog.configTest2.ConfigTest2
+api-version: '1.21'
+commands:
+  broadcast:
+    description: config 메시지를 전체 채팅에 전송
+  reloadconfig:
+    description: config.yml 파일 다시 불러오기
