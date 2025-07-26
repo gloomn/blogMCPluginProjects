@@ -1,0 +1,7 @@
+name: pluginExample
+version: '1.0-SNAPSHOT'
+main: org.blog.pluginExample.PluginExample
+api-version: '1.21.4'
+authors: [ Gloomn ]
+description: Example Plugin
+commands:

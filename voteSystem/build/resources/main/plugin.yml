@@ -1,0 +1,7 @@
+name: voteSystem
+version: '1.0-SNAPSHOT'
+main: org.blog.voteSystem.VoteSystem
+api-version: '1.21'
+commands:
+  vote:
+    description: 몬스터 투표 GUI 열기

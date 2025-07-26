@@ -1,0 +1,9 @@
+name: weather
+version: '1.0-SNAPSHOT'
+main: org.blog.weather.Weather
+api-version: '1.21'
+description: 날씨를 변경하는 플러그인입니다.
+
+commands:
+  w:
+    description: 날씨를 변경합니다. (sun, rain, storm)

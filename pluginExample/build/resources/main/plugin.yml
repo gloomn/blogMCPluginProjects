@@ -1,0 +1,13 @@
+name: pluginExample
+version: '1.0-SNAPSHOT'
+main: org.blog.pluginExample.PluginExample
+api-version: '1.21.4'
+authors: [ Gloomn ]
+description: Example Plugin
+commands:
+  test:
+    description: "플러그인의 작동 여부를 알려줍니다."
+    usage: /test
+  openInventory:
+    description: "커스텀 인벤토리 작동"
+    usage: /openInventory

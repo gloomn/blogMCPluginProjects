@@ -1,0 +1,4 @@
+name: npcTest1
+version: '1.0-SNAPSHOT'
+main: org.blog.npcTest1.NpcTest1
+api-version: '1.21'
