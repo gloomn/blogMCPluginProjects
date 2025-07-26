@@ -1,0 +1,6 @@
+plugin-name: "채팅 필터 플러그인"
+max-points: 100
+banned-words:
+  - 욕1
+  - 욕2
+  - 욕3

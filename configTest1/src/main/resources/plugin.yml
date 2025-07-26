@@ -1,0 +1,4 @@
+name: configTest1
+version: '1.0-SNAPSHOT'
+main: org.blog.configTest1.ConfigTest1
+api-version: '1.21'
