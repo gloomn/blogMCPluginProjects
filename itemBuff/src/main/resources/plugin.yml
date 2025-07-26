@@ -1,0 +1,4 @@
+name: itemBuff
+version: '1.0-SNAPSHOT'
+main: org.blog.itemBuff.ItemBuff
+api-version: '1.21'

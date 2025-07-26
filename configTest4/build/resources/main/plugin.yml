@@ -1,0 +1,7 @@
+name: configTest4
+version: '1.0-SNAPSHOT'
+main: org.blog.configTest4.ConfigTest4
+api-version: '1.21'
+commands:
+  bannedlist:
+    description: 금지어 목록 출력
